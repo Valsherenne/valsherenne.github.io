@@ -11,3 +11,9 @@ h1 {
 p {
     padding: 1vw;
 }
+
+.media-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
